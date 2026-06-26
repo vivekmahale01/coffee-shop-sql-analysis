@@ -1,6 +1,8 @@
 # Coffee Shop Sales & Expansion Analysis
 
 ## Project Overview
+___________________________________________________________________________________________________
+<img width="1536" height="1024" alt="Coffe shop final banner" src="https://github.com/user-attachments/assets/74692455-d415-46c1-bbe8-1b9b5f0056a1" />
 
 This project analyzes coffee shop sales data using SQL to generate business insights and identify the best cities for future expansion.
 
